@@ -69,9 +69,6 @@ $reggio = [
             <h3><?= $reggio['ospite'][$i]['name'] ?></h3>
             <h3><?= $reggio['ospite'][$i]['point'] ?></h3>
         </li>
-        <li>
-
-        </li>
     <?php endfor; ?> 
     </ul>
 </body>
